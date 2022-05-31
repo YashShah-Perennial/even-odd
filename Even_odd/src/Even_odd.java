@@ -7,7 +7,7 @@ public class Even_odd
         {
             for (loop=0;loop< array.length;loop++)// loop for travelling
             {
-                if (loop%2!=0)// logic of even
+                if (loop%2!=0)// logic of odd
                 {
                     System.out.println(loop + "  "+array[loop]);
                 }
